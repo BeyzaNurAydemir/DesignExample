@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kahve</string>
+    <string name="coffeeTitle">Kapiçino</string>
+    <string name="with">Çikolata ile</string>
+    <string name="description">Tarif</string>
+    <string name="descriptionDetails">Bir kapuçino, 25 ml espresso kahve ve 85 ml taze süt ve 10 ml süt köpüğü ile yaklaşık 120 mllik bir içecektir.</string>
+    <string name="size">Boyut</string>
+    <string name="sSize">S</string>
+    <string name="mSize">M</string>
+    <string name="lSize">L</string>
+    <string name="priceText">76.99 ₺</string>
+    <string name="buttonText">ŞİMDİ AL</string>
+</resources>

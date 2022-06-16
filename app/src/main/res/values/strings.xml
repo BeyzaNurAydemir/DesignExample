@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coffee</string>
+    <string name="coffeeTitle">Cappuccino</string>
+    <string name="with">with Chocolate</string>
+    <string name="description">Description</string>
+    <string name="descriptionDetails">A cappucino is an approximately 120 ml beverage, with 25 ml of espresso coffee and 85 ml of fresh milk and 10 ml milk foam.</string>
+    <string name="size">Size</string>
+    <string name="sSize">S</string>
+    <string name="mSize">M</string>
+    <string name="lSize">L</string>
+    <string name="priceText">$ 4.45</string>
+    <string name="buttonText">BUY NOW</string>
+</resources>
